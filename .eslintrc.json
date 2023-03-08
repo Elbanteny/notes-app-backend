@@ -1,0 +1,24 @@
+{
+    "env": {
+        "commonjs": true,
+        "es2021": true,
+        "node": true
+    },
+    "extends": "google",
+    "overrides": [],
+    "parserOptions": {
+        "ecmaVersion": "latest"
+    },
+    "rules": {
+        "no-console": "off",
+        "key-spacing": "off",
+        "space-before-blocks": "off",
+        "newline-after-var": "off",
+        "no-trailing-spaces": "off",
+        "indent": "off",
+        "no-spaced-func": "off",
+        "no-mixed-spaces-and-tabs": "off",
+        "space-before-function-paren": "off",
+        "no-whitespace-before-property": "off"
+    }
+}
